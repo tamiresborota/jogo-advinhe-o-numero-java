@@ -2,6 +2,28 @@
 
 Meu nome é Tamires Silva, e este é um jogo simples de "Adivinhe o Número" que desenvolvi em Java. O jogo foi criado como parte de um exercício da faculdade e evoluído com funcionalidades adicionais para torná-lo mais interessante.
 
+## Screenshots
+
+Aqui estão algumas capturas de tela do jogo:
+
+- **Menu Principal**:
+  ![Menu Principal](screenshots/menu_principal.png)
+
+- **Escolha da Dificuldade**:
+  ![Escolha da Dificuldade](screenshots/escolha_dificuldade.png)
+
+- **Rodada com Acerto**:
+  ![Rodada com Acerto](screenshots/rodada_acerto.png)
+
+- **Rodada com Erro**:
+  ![Rodada com Erro](screenshots/rodada_erro.png)
+
+- **Teste de Número Fora do Intervalo Permitido**:
+  ![Número Fora do Intervalo](screenshots/numero_fora_intervalo.png)
+
+- **Pontuação Final**:
+  ![Pontuação Final](screenshots/pontuacao_final.png)
+
 ## Como Jogar
 
 1. Execute o programa em um ambiente Java.
